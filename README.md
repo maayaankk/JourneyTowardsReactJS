@@ -1,3 +1,3 @@
 # JourneyTowardsReactJS
 
-![alt text](https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png)
+![alt text](https://www.andreasreiterer.at/wp-content/uploads/2017/11/react-logo-825x510.jpg)
