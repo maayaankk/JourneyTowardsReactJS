@@ -9,5 +9,5 @@ React. js is an open-source JavaScript library that is used for building user in
 
 # Create React app
 npx create-react-app my-app
-cd my-app
-npm start
+cd my-app <br/>
+npm start <br/>
