@@ -20,3 +20,14 @@ Dumb Components. ...<br />
 Smart Components. ...<br />
 Presentational Components. ... <br />
 Container components.
+
+# Functional Component 
+The simplest way to define a component is to write a JavaScript function:
+
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.
+
+You can also use an ES6 class to define a component:
